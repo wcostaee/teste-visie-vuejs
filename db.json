@@ -2,22 +2,44 @@
 	"people":
 	[
 		{
-		  "userId": 1,
-		  "id": 1,
-		  "title": "delectus aut autem",
-		  "completed": false
+			"id": 1,
+			"name": "João da Silva"
 		},
 		{
-		  "userId": 1,
-		  "id": 2,
-		  "title": "quis ut nam facilis et officia qui",
-		  "completed": false
+			"id": 2,
+			"name": "Maria Souza"
 		},
 		{
-		  "userId": 1,
-		  "id": 3,
-		  "title": "fugiat veniam minus",
-		  "completed": false
-		}
+			"id": 3,
+			"name": "Wellinton Costa"
+		},
+		{
+			"id": 4,
+			"name": "Cristiano Couto"
+		},
+		{
+			"id": 5,
+			"name": "Joana Marina"
+		},
+		{
+			"id": 6,
+			"name": "John Doe"
+		},
+		{
+			"id": 7,
+			"name": "Luana Pires"
+		},
+		{
+			"id": 8,
+			"name": "Vitor Souza"
+		},
+		{
+			"id": 9,
+			"name": "Ana Paula"
+		},
+		{
+			"id": 10,
+			"name": "Bárbara Silveira"
+		},
 	]
 }
